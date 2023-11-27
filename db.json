@@ -1,0 +1,15 @@
+{
+  "orders": [],
+  "products": [
+    {
+      "first_name": "iphone 15 pro max",
+      "last_name": "technology",
+      "age": 1400,
+      "email": "",
+      "password": "",
+      "image": "",
+      "id": 1
+    }
+  ],
+  "users": []
+}
